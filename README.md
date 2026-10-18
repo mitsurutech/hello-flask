@@ -1,5 +1,7 @@
 # Hello World Flask app: deploy a Python web app from GitHub
 
+[English](README.md) | [Français](README.fr.md) | [日本語](README.ja.md) | [Español](README.es.md)
+
 A hello-world Flask (Python) web app. Deploy it free from its GitHub address with the MitsuruTech
 [deploy a web app from GitHub](https://mitsurutech.co.uk/apps) feature: no account, nothing to
 install. It is small enough to be a first test of deploying to `learntools.dev`, and the steps
@@ -21,6 +23,10 @@ import Flask.
     python -m venv .venv && .venv/bin/pip install -r requirements.txt
     .venv/bin/python app.py
 
+## Licence
+
+This work is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). You may share it and adapt it for learning and teaching, if you credit Mitsuru Technologies Ltd, do not use it commercially, and share anything you make from it under the same licence. The full text is in the `LICENSE` file.
+
 ## About
 
 Made by [Mitsuru Technologies](https://mitsurutech.co.uk) for the
@@ -28,3 +34,5 @@ Made by [Mitsuru Technologies](https://mitsurutech.co.uk) for the
 Linux in the browser for schools and colleges, with container labs, web apps deployed from GitHub, and
 quizzes that mark themselves. Try code with no account in the
 [playground](https://mitsurutech.co.uk/playground).
+
+Teaching a class? See [the price](https://mitsurutech.co.uk/pricing) or [create a college account](https://mitsurutech.co.uk/signup).
