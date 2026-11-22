@@ -1,6 +1,6 @@
 # Hello World Flask app: deploy a Python web app from GitHub
 
-[English](README.md) | [Français](README.fr.md) | [日本語](README.ja.md) | [Español](README.es.md)
+[English](README.md) | [Français](README.fr.md) | [Español](README.es.md) | [日本語](README.ja.md) | [Deutsch](README.de.md)
 
 A hello-world Flask (Python) web app. Deploy it free from its GitHub address with the MitsuruTech
 [deploy a web app from GitHub](https://mitsurutech.co.uk/apps) feature: no account, nothing to

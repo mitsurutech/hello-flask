@@ -1,6 +1,6 @@
 # Application Flask « Hello World » : déployer une application web Python depuis GitHub
 
-[English](README.md) | [Français](README.fr.md) | [日本語](README.ja.md) | [Español](README.es.md)
+[English](README.md) | [Français](README.fr.md) | [Español](README.es.md) | [日本語](README.ja.md) | [Deutsch](README.de.md)
 
 Une application web Flask (Python) « Hello World ». Déployez-la gratuitement depuis son adresse GitHub avec la
 fonction [déployer une application web depuis GitHub](https://mitsurutech.co.uk/fr/apps) de MitsuruTech : sans compte, rien à

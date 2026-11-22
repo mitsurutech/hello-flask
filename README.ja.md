@@ -1,6 +1,6 @@
 # Hello World Flask アプリ：GitHub から Python の Web アプリをデプロイ
 
-[English](README.md) | [Français](README.fr.md) | [日本語](README.ja.md) | [Español](README.es.md)
+[English](README.md) | [Français](README.fr.md) | [Español](README.es.md) | [日本語](README.ja.md) | [Deutsch](README.de.md)
 
 Hello World を表示するだけの Flask（Python）の Web アプリです。MitsuruTech の
 [GitHub から Web アプリをデプロイ](https://mitsurutech.co.uk/ja/apps)する機能で、GitHub のアドレスから無料でデプロイできます。アカウントもインストールも不要です。
